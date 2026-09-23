@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# Prompt Forge
 
-**prompt-forge** is part of the Zion Tech Group app network (630+ apps).
+Prompt building and optimization.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
+- Related: [zion-prompt-forge](https://github.com/Zion-support/zion-prompt-forge) · [zion-ai-prompt-forge](https://github.com/Zion-support/zion-ai-prompt-forge) · [ai-prompt-engineer](https://github.com/Zion-support/ai-prompt-engineer) · [zion-prompt-vault](https://github.com/Zion-support/zion-prompt-vault) · [zion-prompt-ab-playground](https://github.com/Zion-support/zion-prompt-ab-playground)
 
-## Related apps
-- [ai-prompt-engineer](https://github.com/Zion-support/ai-prompt-engineer) — Prompt engineering toolkit
-- [zion-prompt-forge](https://github.com/Zion-support/zion-prompt-forge) — Curated prompt library
-- [zion-prompt-ab-playground](https://github.com/Zion-support/zion-prompt-ab-playground) — Prompt A/B comparison
-- [zion-prompt-vault](https://github.com/Zion-support/zion-prompt-vault) — Searchable prompt library
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
