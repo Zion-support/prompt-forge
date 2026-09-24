@@ -1,2 +1,7 @@
 # prompt-forge
-AI Prompt Forge — build, optimize and score prompts for IT &amp; engineering teams — Zion Tech Group
+AI Prompt Forge — build, optimize and score prompts for IT & engineering teams — Zion Tech Group
+
+---
+
+### Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://ziontechgroup.com/en/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
